@@ -35,3 +35,4 @@ List<String> cars = new LinkedList<>();
 This means the variable (cars) is declared as a List (the interface), but it stores a LinkedList object (the actual list). Since LinkedList implements the List interface, this is possible.
 
 It works the same way, but some developers prefer this style because it gives them more flexibility to change the type later.
+
